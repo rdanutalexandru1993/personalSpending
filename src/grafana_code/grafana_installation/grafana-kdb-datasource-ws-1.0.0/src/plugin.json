@@ -1,0 +1,23 @@
+{
+  "type": "datasource",
+  "name": "KDB+",
+  "id": "aquaq-kdb-websocket-adaptor",
+  "info": {
+    "description ": "KDB+ Data Source for Grafana",
+    "author": {
+      "name": "AquaQ Analytics",
+      "url": "https://www.aquaq.co.uk"
+    },
+    "logos": {
+      "small": "img/aquaq_logo.png",
+      "large": "img/aquaq_logo.png"
+    },
+    "version": "1.0.0"
+  },
+  "alerting": true,
+  "annotations": false,
+  "metrics": true,
+  "queryOptions": {
+    "minInterval": true
+  }
+}
