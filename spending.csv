@@ -1,0 +1,5 @@
+fromCurrency,amount,baseCurrency,exchangeRate,amntInBaseC,category,subcategory,date,note,shop,time,version,year,month
+RON,59,GBP,,,technology,accessories,2022-01-10,item1,mobiup,2001,,2022,1
+RON,25.99,GBP,,,healthy,dinning_out,2022-01-10,item2,oat_box,1136,,2022,1
+EUR,42.99,GBP,,,transportation,airplane,2022-01-10,item3,ryanair,118,,2022,1
+RON,9,GBP,,,healthy,snack,2022-01-10,item4,schiltorn,836,,2022,1
